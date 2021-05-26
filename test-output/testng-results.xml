@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="102214" started-at="2021-05-25T08:15:15Z" finished-at="2021-05-25T08:16:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="102214" started-at="2021-05-25T08:15:15Z" finished-at="2021-05-25T08:16:58Z">
+      <class name="automation.GettingStarted">
+        <test-method status="PASS" signature="testGoogleSearch()[pri:0, instance:automation.GettingStarted@1e88b3c]" name="testGoogleSearch" duration-ms="102198" started-at="2021-05-25T13:45:15Z" finished-at="2021-05-25T13:46:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleSearch -->
+      </class> <!-- automation.GettingStarted -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
